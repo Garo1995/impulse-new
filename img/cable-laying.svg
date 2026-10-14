@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Прокладка кабеля в траншее">
+<rect width="600" height="420" fill="#cfd8df"/>
+<rect y="150" width="600" height="270" fill="#7a5c43"/><rect y="130" width="600" height="30" fill="#5d8a3c"/>
+<path d="M0 200 H600 V340 H0Z" fill="#5f452f"/>
+<path d="M0 222 H600" stroke="#f2b705" stroke-width="6" stroke-dasharray="26 14"/>
+<g fill="none" stroke-linecap="round">
+<path d="M0 265 Q150 250 300 265 T600 260" stroke="#111" stroke-width="16"/><path d="M0 265 Q150 250 300 265 T600 260" stroke="#c0392b" stroke-width="5"/>
+<path d="M0 305 Q150 291 300 305 T600 301" stroke="#111" stroke-width="16"/><path d="M0 305 Q150 291 300 305 T600 301" stroke="#2d6cb5" stroke-width="5"/>
+</g>
+<g fill="#a8774f"><circle cx="80" cy="375" r="10"/><circle cx="200" cy="395" r="14"/><circle cx="420" cy="380" r="11"/><circle cx="530" cy="398" r="9"/></g>
+<rect x="60" y="40" width="10" height="100" fill="#f2b705"/><rect x="60" y="40" width="70" height="26" fill="#f2b705"/>
+</svg>

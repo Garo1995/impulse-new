@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 64" role="img" aria-label="Импульс">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#111111"/>
+  <path d="M10 34h11l6-18 9 32 6-14h12" fill="none" stroke="#e8b923" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="43" font-family="Arial Narrow, Arial, sans-serif" font-size="32" font-weight="700" fill="#111111" letter-spacing="2">ИМПУЛЬС</text>
+</svg>
