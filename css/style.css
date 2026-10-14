@@ -317,7 +317,10 @@ main section {
   align-items: center;
   gap: 48px;
 }
-
+.intro-text h1{
+  max-width: 750px;
+  width: 100%;
+}
 .intro-text {
   flex: 1 1 55%;
 }
